@@ -22,5 +22,5 @@ package roundtrip
 
 // Revision reports this build's marker. Always positive.
 func Revision() int {
-	return 3
+	return 4
 }
